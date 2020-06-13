@@ -1,101 +1,101 @@
-"link","State","pop2016","pop2010","GrowthRate"
-,"California",10105518,9822433,"0.0288"
-,"Illinois",5180493,5199166,"-0.0036"
-,"Texas",4698619,4107828,"0.1438"
-,"Arizona",4410824,3825191,"0.1531"
-,"California",3343364,3103306,"0.0774"
-,"California",3185968,3016559,"0.0562"
-,"Florida",2761581,2507065,"0.1015"
-,"Texas",2637772,2372327,"0.1119"
-,"New York",2582830,2509877,"0.0291"
-,"California",2450758,2201652,"0.1131"
-,"New York",2278906,2234745,"0.0198"
-,"Washington",2233163,1938375,"0.1521"
-,"Nevada",2231647,1952644,"0.1429"
-,"California",2171603,2040910,"0.0640"
-,"Texas",2084931,1817507,"0.1471"
-,"Texas",1986049,1722855,"0.1528"
-,"Florida",1951260,1752834,"0.1132"
-,"California",1937570,1786079,"0.0848"
-,"Michigan",1753893,1815155,"-0.0338"
-,"California",1666753,1513043,"0.1016"
-,"New York",1628701,1588759,"0.0251"
-,"Massachusetts",1614714,1507693,"0.0710"
-,"Pennsylvania",1584138,1528293,"0.0365"
-,"California",1540975,1421414,"0.0841"
-,"Florida",1485941,1323648,"0.1226"
-,"New York",1481093,1494385,"-0.0089"
-,"Florida",1436888,1233491,"0.1649"
-,"New York",1432132,1387353,"0.0323"
-,"Florida",1380645,1148593,"0.2020"
-,"New York",1358343,1341687,"0.0124"
-,"Ohio",1310300,1166261,"0.1235"
-,"Minnesota",1259428,1154192,"0.0912"
-,"Michigan",1259201,1203120,"0.0466"
-,"Texas",1248743,1030539,"0.2117"
-,"Ohio",1243857,1278096,"-0.0268"
-,"Pennsylvania",1218452,1223970,"-0.0045"
-,"Utah",1152633,1032979,"0.1158"
-,"Virginia",1150795,1086127,"0.0595"
-,"California",1150215,1052559,"0.0928"
-,"North Carolina",1093901,923258,"0.1848"
-,"North Carolina",1092305,906882,"0.2045"
-,"Maryland",1052567,976287,"0.0781"
-,"Georgia",1050114,925651,"0.1345"
-,"Arizona",1039073,981653,"0.0585"
-,"Texas",1005146,788431,"0.2749"
-,"Missouri",996945,998843,"-0.0019"
-,"California",994400,932063,"0.0669"
-,"Hawaii",980080,956296,"0.0249"
-,"Florida",975280,916424,"0.0642"
-,"New York",967612,950631,"0.0179"
-,"Indiana",954670,904602,"0.0553"
-,"Florida",950181,865637,"0.0977"
-,"Wisconsin",948201,948301,"-0.0001"
-,"Connecticut",943823,919330,"0.0266"
-,"New Jersey",936692,906341,"0.0335"
-,"Tennessee",935764,928448,"0.0079"
-,"Illinois",928589,918029,"0.0115"
-,"Georgia",927781,808049,"0.1482"
-,"New York",919719,919143,"0.0006"
-,"Maryland",909308,865747,"0.0503"
-,"California",896764,841072,"0.0662"
-,"Connecticut",892697,895226,"-0.0028"
-,"Washington",891299,795393,"0.1206"
-,"California",883305,805550,"0.0965"
-,"Michigan",874759,841355,"0.0397"
-,"Texas",865939,779213,"0.1113"
-,"Texas",859064,666768,"0.2884"
-,"Connecticut",857620,863382,"-0.0067"
-,"California",850967,825130,"0.0313"
-,"Texas",840758,803655,"0.0462"
-,"Massachusetts",830839,800401,"0.0380"
-,"New Jersey",829685,810666,"0.0235"
-,"Pennsylvania",828604,800907,"0.0346"
-,"Maryland",828431,806560,"0.0271"
-,"Ohio",816684,802263,"0.0180"
-,"Washington",814901,715507,"0.1389"
-,"Oregon",811880,737291,"0.1012"
-,"Massachusetts",807252,725819,"0.1122"
-,"New Jersey",799767,784062,"0.0200"
-,"Oklahoma",792582,720787,"0.0996"
-,"Massachusetts",790638,745479,"0.0606"
-,"Texas",787858,590260,"0.3348"
-,"Kentucky",770517,742050,"0.0384"
-,"California",769545,719725,"0.0692"
-,"Georgia",756865,689528,"0.0977"
-,"Georgia",756558,692471,"0.0925"
-,"Florida",754610,620454,"0.2162"
-,"California",752660,687156,"0.0953"
-,"New York",742474,744594,"-0.0028"
-,"Colorado",716492,603354,"0.1875"
-,"Colorado",713856,626904,"0.1387"
-,"Florida",708009,603128,"0.1739"
-,"Massachusetts",705388,673039,"0.0481"
-,"District of Columbia",702455,605085,"0.1609"
-,"Illinois",700832,704192,"-0.0048"
-,"Missouri",700307,674824,"0.0378"
-,"Tennessee",692587,627753,"0.1033"
-,"Illinois",692310,678818,"0.0199"
-,"New Mexico",678701,663948,"0.0222"
-,"New Jersey",676061,635634,"0.0636"
+County Name,State,2020 Population ,2010 Population,Growth (since 2010)
+Los Angeles County,California,"10,105,518","9,822,433",2.88%
+Cook County,Illinois,"5,180,493","5,199,166",-0.36%
+Harris County,Texas,"4,698,619","4,107,828",14.38%
+Maricopa County,Arizona,"4,410,824","3,825,191",15.31%
+San Diego County,California,"3,343,364","3,103,306",7.74%
+Orange County,California,"3,185,968","3,016,559",5.62%
+Miami Dade County,Florida,"2,761,581","2,507,065",10.15%
+Dallas County,Texas,"2,637,772","2,372,327",11.19%
+Kings County,New York,"2,582,830","2,509,877",2.91%
+Riverside County,California,"2,450,758","2,201,652",11.31%
+Queens County,New York,"2,278,906","2,234,745",1.98%
+King County,Washington,"2,233,163","1,938,375",15.21%
+Clark County,Nevada,"2,231,647","1,952,644",14.29%
+San Bernardino County,California,"2,171,603","2,040,910",6.40%
+Tarrant County,Texas,"2,084,931","1,817,507",14.71%
+Bexar County,Texas,"1,986,049","1,722,855",15.28%
+Broward County,Florida,"1,951,260","1,752,834",11.32%
+Santa Clara County,California,"1,937,570","1,786,079",8.48%
+Wayne County,Michigan,"1,753,893","1,815,155",-3.38%
+Alameda County,California,"1,666,753","1,513,043",10.16%
+New York County,New York,"1,628,701","1,588,759",2.51%
+Middlesex County,Massachusetts,"1,614,714","1,507,693",7.10%
+Philadelphia County,Pennsylvania,"1,584,138","1,528,293",3.65%
+Sacramento County,California,"1,540,975","1,421,414",8.41%
+Palm Beach County,Florida,"1,485,941","1,323,648",12.26%
+Suffolk County,New York,"1,481,093","1,494,385",-0.89%
+Hillsborough County,Florida,"1,436,888","1,233,491",16.49%
+Bronx County,New York,"1,432,132","1,387,353",3.23%
+Orange County,Florida,"1,380,645","1,148,593",20.20%
+Nassau County,New York,"1,358,343","1,341,687",1.24%
+Franklin County,Ohio,"1,310,300","1,166,261",12.35%
+Hennepin County,Minnesota,"1,259,428","1,154,192",9.12%
+Oakland County,Michigan,"1,259,201","1,203,120",4.66%
+Travis County,Texas,"1,248,743","1,030,539",21.17%
+Cuyahoga County,Ohio,"1,243,857","1,278,096",-2.68%
+Allegheny County,Pennsylvania,"1,218,452","1,223,970",-0.45%
+Salt Lake County,Utah,"1,152,633","1,032,979",11.58%
+Fairfax County,Virginia,"1,150,795","1,086,127",5.95%
+Contra Costa County,California,"1,150,215","1,052,559",9.28%
+Mecklenburg County,North Carolina,"1,093,901","923,258",18.48%
+Wake County,North Carolina,"1,092,305","906,882",20.45%
+Montgomery County,Maryland,"1,052,567","976,287",7.81%
+Fulton County,Georgia,"1,050,114","925,651",13.45%
+Pima County,Arizona,"1,039,073","981,653",5.85%
+Collin County,Texas,"1,005,146","788,431",27.49%
+St. Louis County,Missouri,"996,945","998,843",-0.19%
+Fresno County,California,"994,400","932,063",6.69%
+Honolulu County,Hawaii,"980,080","956,296",2.49%
+Pinellas County,Florida,"975,280","916,424",6.42%
+Westchester County,New York,"967,612","950,631",1.79%
+Marion County,Indiana,"954,670","904,602",5.53%
+Duval County,Florida,"950,181","865,637",9.77%
+Milwaukee County,Wisconsin,"948,201","948,301",-0.01%
+Fairfield County,Connecticut,"943,823","919,330",2.66%
+Bergen County,New Jersey,"936,692","906,341",3.35%
+Shelby County,Tennessee,"935,764","928,448",0.79%
+Dupage County,Illinois,"928,589","918,029",1.15%
+Gwinnett County,Georgia,"927,781","808,049",14.82%
+Erie County,New York,"919,719","919,143",0.06%
+Prince George's County,Maryland,"909,308","865,747",5.03%
+Kern County,California,"896,764","841,072",6.62%
+Hartford County,Connecticut,"892,697","895,226",-0.28%
+Pierce County,Washington,"891,299","795,393",12.06%
+San Francisco County,California,"883,305","805,550",9.65%
+Macomb County,Michigan,"874,759","841,355",3.97%
+Hidalgo County,Texas,"865,939","779,213",11.13%
+Denton County,Texas,"859,064","666,768",28.84%
+New Haven County,Connecticut,"857,620","863,382",-0.67%
+Ventura County,California,"850,967","825,130",3.13%
+El Paso County,Texas,"840,758","803,655",4.62%
+Worcester County,Massachusetts,"830,839","800,401",3.80%
+Middlesex County,New Jersey,"829,685","810,666",2.35%
+Montgomery County,Pennsylvania,"828,604","800,907",3.46%
+Baltimore County,Maryland,"828,431","806,560",2.71%
+Hamilton County,Ohio,"816,684","802,263",1.80%
+Snohomish County,Washington,"814,901","715,507",13.89%
+Multnomah County,Oregon,"811,880","737,291",10.12%
+Suffolk County,Massachusetts,"807,252","725,819",11.22%
+Essex County,New Jersey,"799,767","784,062",2.00%
+Oklahoma County,Oklahoma,"792,582","720,787",9.96%
+Essex County,Massachusetts,"790,638","745,479",6.06%
+Fort Bend County,Texas,"787,858","590,260",33.48%
+Jefferson County,Kentucky,"770,517","742,050",3.84%
+San Mateo County,California,"769,545","719,725",6.92%
+Cobb County,Georgia,"756,865","689,528",9.77%
+Dekalb County,Georgia,"756,558","692,471",9.25%
+Lee County,Florida,"754,610","620,454",21.62%
+San Joaquin County,California,"752,660","687,156",9.53%
+Monroe County,New York,"742,474","744,594",-0.28%
+Denver County,Colorado,"716,492","603,354",18.75%
+El Paso County,Colorado,"713,856","626,904",13.87%
+Polk County,Florida,"708,009","603,128",17.39%
+Norfolk County,Massachusetts,"705,388","673,039",4.81%
+District Of Columbia,District Of Columbia,"702,455","605,085",16.09%
+Lake County,Illinois,"700,832","704,192",-0.48%
+Jackson County,Missouri,"700,307","674,824",3.78%
+Davidson County,Tennessee,"692,587","627,753",10.33%
+Will County,Illinois,"692,310","678,818",1.99%
+Bernalillo County,New Mexico,"678,701","663,948",2.22%
+Hudson County,New Jersey,"676,061","635,634",6.36%
